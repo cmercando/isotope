@@ -1,6 +1,8 @@
 Isotope
 ========
 
+This is an edit
+
 **An exquisite jQuery plugin for magical layouts. Enables filtering, sorting, and dynamic layouts.**
 
 This package has all the documentation and demos to get you started.
