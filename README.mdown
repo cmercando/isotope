@@ -1,7 +1,7 @@
 Isotope
 ========
 
-This is an edit
+My edit is better.
 
 **An exquisite jQuery plugin for magical layouts. Enables filtering, sorting, and dynamic layouts.**
 
